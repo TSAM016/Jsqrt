@@ -1,10 +1,8 @@
+GABRI PONTE
 Edward
 Federico
-GABRI PONTE
-<<<<<<< HEAD
+Luca
 Mariana
+Matteo btt
+Mihai
 TV
-=======
-TV
-edward ilie riscrive roba alle 15:52 in riga 3
->>>>>>> 0525d5867896796cdd0ebbf4a096c347d1e456c0
