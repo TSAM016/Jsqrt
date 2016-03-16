@@ -1,3 +1,9 @@
 GABRI PONTE
 TV
+<<<<<<< HEAD
 edward ilie riscrive roba alle 15:52 in riga 3
+=======
+Edward
+Mariana
+Federico
+>>>>>>> 45d859307bb795846448ddd5ec37c52bf3b19d72
